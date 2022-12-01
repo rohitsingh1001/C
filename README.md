@@ -29,5 +29,10 @@ int main()
   - 1. Entry Control Loop
   - 2. Exit Control loop
 * while() loop
+- ```c
+ while(i<10){
+    printf("%d",i);
+ }
+```
 * do{} while() loop
 * for() loop
