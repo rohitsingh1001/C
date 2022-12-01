@@ -22,3 +22,12 @@ int main()
 ```C
 
 ```
+
+
+## Loop
+- There are two types of loop
+  - 1. Entry Control Loop
+  - 2. Exit Control loop
+* while() loop
+* do{} while() loop
+* for() loop
