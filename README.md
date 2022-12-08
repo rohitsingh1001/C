@@ -36,3 +36,9 @@ int main()
  
 * do{} while() loop
 * for() loop
+...
+
+
+##Array
+_An aaray is define as a collection of similar kinds of data element store at continious memory location.
+syntax of aaray-<data type><aaray name>[size];
